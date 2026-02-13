@@ -4,7 +4,7 @@
 # Se for uma "impressora", deve imprimir que o nível de toner deve ser verificado. 
 # Para qualquer outro dispositivo, o sistema deve imprimir que um técnico será enviado à sala.
 
-puts "Bem vindo ao Help Desk da Etec! \nComo podemos ajudar?"
+puts "Bem vindo ao Help Desk da Etec!\nComo podemos ajudar?"
 
 print "Se seu problema é de software [1] ou hardware [2]? " 
 problema = gets.chomp.to_i
