@@ -7,7 +7,7 @@ puts "--- Olá seja bem vindo a biblioteca da municipal de São Paulo! ---"
 print "Para prosseguir digite seu nome: "
 nome = gets.chomp
 
-print "Agora digite seu sobrenome:"
+print "Agora digite seu sobrenome: "
 sobrenome = gets.chomp
 
 print "Por fim, digite sua idade: "
